@@ -147,6 +147,4 @@ DB_NAME=student_management
 
 ---
 
-## 📄 License
 
-MIT
