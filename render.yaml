@@ -1,0 +1,27 @@
+services:
+  # Backend FastAPI Service
+  - type: web
+    name: student-management-backend
+    env: python
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: cd backend && gunicorn app.main:app -w 4 -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:$PORT
+    envVars:
+      - key: MONGO_URL
+        sync: false # User must provide this in the Render dashboard
+      - key: DB_NAME
+        value: Mongo
+      - key: PORT
+        value: 10000
+
+  # Frontend Vite Static Site
+  - type: static
+    name: student-management-frontend
+    env: static
+    buildCommand: cd frontend && npm install && npm run build
+    publishPath: ./frontend/dist
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: student-management-backend
+          property: host
