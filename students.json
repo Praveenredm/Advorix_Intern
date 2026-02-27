@@ -1,0 +1,25 @@
+[
+{"id":1,"name":"Arjun Mehta","age":20,"department":"Computer Science","email":"arjun.mehta@gmail.com","phone":"9876500001","address":{"street":"12 MG Road","city":"Mumbai","state":"Maharashtra","pincode":"400001"}},
+{"id":2,"name":"Priya Sharma","age":21,"department":"Information Technology","email":"priya.sharma@gmail.com","phone":"9876500002","address":{"street":"45 Park Street","city":"Kolkata","state":"West Bengal","pincode":"700001"}},
+{"id":3,"name":"Rahul Verma","age":22,"department":"Mechanical Engineering","email":"rahul.verma@gmail.com","phone":"9876500003","address":{"street":"22 Brigade Road","city":"Bengaluru","state":"Karnataka","pincode":"560001"}},
+{"id":4,"name":"Sneha Reddy","age":19,"department":"Electronics","email":"sneha.reddy@gmail.com","phone":"9876500004","address":{"street":"18 Banjara Hills","city":"Hyderabad","state":"Telangana","pincode":"500034"}},
+{"id":5,"name":"Vikram Singh","age":23,"department":"Civil Engineering","email":"vikram.singh@gmail.com","phone":"9876500005","address":{"street":"90 Sector 17","city":"Chandigarh","state":"Punjab","pincode":"160017"}},
+{"id":6,"name":"Aisha Khan","age":20,"department":"Biotechnology","email":"aisha.khan@gmail.com","phone":"9876500006","address":{"street":"10 Hazratganj","city":"Lucknow","state":"Uttar Pradesh","pincode":"226001"}},
+{"id":7,"name":"Karthik Iyer","age":21,"department":"Data Science","email":"karthik.iyer@gmail.com","phone":"9876500007","address":{"street":"3 Anna Salai","city":"Chennai","state":"Tamil Nadu","pincode":"600002"}},
+{"id":8,"name":"Neha Patel","age":22,"department":"MBA","email":"neha.patel@gmail.com","phone":"9876500008","address":{"street":"77 CG Road","city":"Ahmedabad","state":"Gujarat","pincode":"380009"}},
+{"id":9,"name":"Rohan Das","age":20,"department":"Electrical Engineering","email":"rohan.das@gmail.com","phone":"9876500009","address":{"street":"5 GS Road","city":"Guwahati","state":"Assam","pincode":"781005"}},
+{"id":10,"name":"Divya Nair","age":19,"department":"BCA","email":"divya.nair@gmail.com","phone":"9876500010","address":{"street":"8 Marine Drive","city":"Kochi","state":"Kerala","pincode":"682011"}},
+
+{"id":11,"name":"Aditya Rao","age":21,"department":"CSE","email":"aditya.rao@gmail.com","phone":"9876500011","address":{"street":"11 Residency Road","city":"Jaipur","state":"Rajasthan","pincode":"302001"}},
+{"id":12,"name":"Meena Krishnan","age":22,"department":"IT","email":"meena.krishnan@gmail.com","phone":"9876500012","address":{"street":"29 Temple Street","city":"Madurai","state":"Tamil Nadu","pincode":"625001"}},
+{"id":13,"name":"Sanjay Yadav","age":23,"department":"Mechanical","email":"sanjay.yadav@gmail.com","phone":"9876500013","address":{"street":"16 Civil Lines","city":"Prayagraj","state":"Uttar Pradesh","pincode":"211001"}},
+{"id":14,"name":"Pooja Choudhary","age":20,"department":"ECE","email":"pooja.choudhary@gmail.com","phone":"9876500014","address":{"street":"21 Main Road","city":"Indore","state":"Madhya Pradesh","pincode":"452001"}},
+{"id":15,"name":"Imran Shaikh","age":22,"department":"EEE","email":"imran.shaikh@gmail.com","phone":"9876500015","address":{"street":"14 Camp Area","city":"Pune","state":"Maharashtra","pincode":"411001"}},
+
+{"id":16,"name":"Ananya Sen","age":19,"department":"Biotech","email":"ananya.sen@gmail.com","phone":"9876500016","address":{"street":"34 Salt Lake","city":"Kolkata","state":"West Bengal","pincode":"700091"}},
+{"id":17,"name":"Harsh Vardhan","age":21,"department":"Civil","email":"harsh.vardhan@gmail.com","phone":"9876500017","address":{"street":"40 Rajendra Nagar","city":"Patna","state":"Bihar","pincode":"800016"}},
+{"id":18,"name":"Lakshmi Narayanan","age":23,"department":"Data Science","email":"lakshmi.narayanan@gmail.com","phone":"9876500018","address":{"street":"9 Lake View","city":"Coimbatore","state":"Tamil Nadu","pincode":"641001"}},
+{"id":19,"name":"Aman Gupta","age":20,"department":"MBA","email":"aman.gupta@gmail.com","phone":"9876500019","address":{"street":"67 Connaught Place","city":"New Delhi","state":"Delhi","pincode":"110001"}},
+{"id":20,"name":"Shruti Kulkarni","age":22,"department":"CSE","email":"shruti.kulkarni@gmail.com","phone":"9876500020","address":{"street":"5 FC Road","city":"Pune","state":"Maharashtra","pincode":"411004"}}
+
+]
